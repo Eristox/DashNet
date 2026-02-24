@@ -40,12 +40,13 @@ Q	Quit application
     Bash
 
 git clone https://github.com/Eristox/DashNet-NetMonitor-TUI.git 
-cd cd DashNet-NetMonitor-TUI
+
+    cd DashNet-NetMonitor-TUI
 
 Build the project:
 Bash
 
-cargo build --release
+    cargo build --release
 
 Run the application:
 Bash
