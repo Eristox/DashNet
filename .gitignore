@@ -1,0 +1,6 @@
+# Fichiers de compilation
+/target
+
+# Sauvegardes d'éditeurs
+*.rs.bk
+rustfmt.toml
