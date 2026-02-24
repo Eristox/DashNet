@@ -39,8 +39,8 @@ Q	Quit application
     Clone the repository:
     Bash
 
-git clone https://github.com/your-username/net-monitor-tui.git
-cd net-monitor-tui
+git clone https://github.com/Eristox/DashNet-NetMonitor-TUI.git 
+cd cd DashNet-NetMonitor-TUI
 
 Build the project:
 Bash
