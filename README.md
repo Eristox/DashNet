@@ -36,11 +36,10 @@ R	Manual refresh of all lists
 Q	Quit application
 🚀 Installation
 
-    Clone the repository:
-    Bash
+Clone the repository:
+Bash
 
-git clone https://github.com/Eristox/DashNet-NetMonitor-TUI.git 
-
+    git clone https://github.com/Eristox/DashNet-NetMonitor-TUI.git 
     cd DashNet-NetMonitor-TUI
 
 Build the project:
